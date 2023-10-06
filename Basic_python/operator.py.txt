@@ -1,0 +1,22 @@
+#There are different type of operators in python.
+# 1. Arithmetic operator
+num= 5
+print(num+1)  # plus operator
+num=5
+print(num-2)#minus operator
+
+num=5
+print(num*2)
+
+num=5
+print(num/2)
+
+num=5
+print(num%2)
+
+num=5
+print(num//2)
+
+num=5
+print(num**2)
+

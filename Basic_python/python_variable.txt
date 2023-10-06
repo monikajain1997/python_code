@@ -1,0 +1,32 @@
+# VARIABLES IN PYTHON
+
+#integers value
+a= 3
+print(a)
+# float value
+num= 2.5
+print(num)
+#bool value
+c= True
+print(c)
+#string value
+part = "Kalpana"
+print(part)
+
+c=None
+print(c)
+
+# typecasting
+
+i= int(input())
+print(float(i))
+# length
+var = "fruit"
+print(len(var))
+
+#sum
+pre = 8
+print(pre+1)
+# string sum
+spel= str(input())
+print(spel+"_" +"fruit")

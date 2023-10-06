@@ -1,0 +1,3 @@
+there is various type of assignment operators in python.
+
+=,+=,-=,/=,*=,//=,**=,%=
